@@ -1,6 +1,8 @@
 # Introduction to JSONPowerDB
 JPDB-Web-Form
+
 It takes user inputs from the form and modifies the data in the JPDB.
+
 Benefits of using JsonPowerDB:
 • Minimum Development Cost. 
 • Minimum Time to Market.
